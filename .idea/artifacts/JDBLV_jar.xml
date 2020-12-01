@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JDBLV:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JDBLV_jar</output-path>
+    <root id="archive" name="JDBLV.jar">
+      <element id="module-output" name="JDBLV" />
+    </root>
+  </artifact>
+</component>
